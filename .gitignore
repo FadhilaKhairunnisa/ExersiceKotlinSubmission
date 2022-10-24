@@ -1,0 +1,5 @@
+# Project exclude paths
+/KotlinSubmission/.gradle/
+/KotlinSubmission/build/
+/KotlinSubmission/build/classes/kotlin/main/
+/KotlinSubmission/build/classes/kotlin/test/
